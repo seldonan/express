@@ -151,6 +151,8 @@ The current lead maintainer is [Douglas Christopher Wilson](https://github.com/d
 ## License
 
   [MIT](LICENSE)
+  Seldon
+
 
 [appveyor-image]: https://badgen.net/appveyor/ci/dougwilson/express/master?label=windows
 [appveyor-url]: https://ci.appveyor.com/project/dougwilson/express
